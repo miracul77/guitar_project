@@ -1,0 +1,16 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass",
+		"../sass/nomalizez.sass",
+		"../sass/resets.sass"
+	],
+	"sourcesContent": [
+		"@import \"nomalizez.sass\";\n@import \"resets.sass\";\n\n.main-section {\n    height: 800px;\n    background: #D9D9D9; }\n",
+		"",
+		""
+	],
+	"names": [],
+	"mappings": ";;AAGA,AAAA,aAAa,CAAC;EACV,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,OAAO;CAAG"
+}
